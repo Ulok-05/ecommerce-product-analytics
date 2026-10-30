@@ -1,0 +1,4 @@
+"step","method","subscriptions_without_billed_months","total_revenue"
+1,"Draft: snapshot 2025-04-28, no minimum",84,149935.68
+2,"Snapshot 2025-05-20, no minimum",7,166588.84
+3,"Snapshot 2025-05-20, at least one month (this notebook)",0,167112.37

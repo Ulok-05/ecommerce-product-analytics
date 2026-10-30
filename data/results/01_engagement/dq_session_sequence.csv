@@ -1,0 +1,2 @@
+"event_sequence","duration_sec","sessions"
+website_visit -> view_product_page -> add_to_cart -> session_end,30,2165

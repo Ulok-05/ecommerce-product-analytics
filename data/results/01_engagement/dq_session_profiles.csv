@@ -1,0 +1,6 @@
+"event_types","n_events","sessions"
+add_to_cart + session_end + view_product_page + website_visit,4,2165
+checkout_complete + session_end,2,20
+checkout_start + session_end,2,16
+feature_click + session_end,2,16
+search + session_end,2,15

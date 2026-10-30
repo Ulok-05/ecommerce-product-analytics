@@ -1,0 +1,25 @@
+"segment_type","segment","visit_users","view_users","cart_users","checkout_start_users","purchase_users","overall_conversion_pct"
+Acquisition channel,Direct,116,97,85,66,57,49.14
+Acquisition channel,Social Media,89,77,62,51,43,48.31
+Acquisition channel,Email Campaign,96,87,70,62,46,47.92
+Acquisition channel,Referral,107,93,78,60,50,46.73
+Acquisition channel,Paid Search,117,111,87,70,54,46.15
+Acquisition channel,Content Marketing,107,99,83,63,48,44.86
+Acquisition channel,Organic Search,97,83,72,55,43,44.33
+Acquisition channel,Partner,114,101,90,73,49,42.98
+Acquisition channel,App Store,129,118,95,77,49,37.98
+Country,Japan,93,85,75,63,53,56.99
+Country,France,104,97,79,61,50,48.08
+Country,Mexico,96,86,70,55,46,47.92
+Country,Germany,110,100,84,66,52,47.27
+Country,Brazil,94,83,71,59,43,45.74
+Country,Australia,82,76,67,51,36,43.9
+Country,United States,95,85,72,53,41,43.16
+Country,Canada,101,85,65,54,42,41.58
+Country,United Kingdom,89,76,66,53,35,39.33
+Country,India,108,93,73,62,41,37.96
+Plan,Pro,88,81,69,57,43,48.86
+Plan,Enterprise,37,36,30,23,18,48.65
+Plan,Premium,123,106,90,75,59,47.97
+Plan,Basic,197,174,148,125,89,45.18
+Plan,Free,206,175,141,110,80,38.83

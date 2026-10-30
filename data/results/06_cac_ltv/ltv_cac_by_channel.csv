@@ -1,0 +1,10 @@
+"acquisition_channel","users","cac_per_user","ltv_to_date","median_revenue","ltv_cac","enterprise_users","enterprise_pct_of_revenue","ltv_to_date_without_enterprise","ltv_cac_without_enterprise"
+Direct,119,2.49,131.65,0.0,52.9,5,33.0,92.05,37.16
+Content Marketing,109,16.97,247.86,15.23,14.6,8,69.9,80.44,4.72
+Email Campaign,104,8.72,111.14,0.0,12.75,3,28.3,82.01,9.46
+Organic Search,99,12.7,156.26,0.0,12.31,4,49.5,82.19,6.54
+Referral,110,25.4,137.46,0.0,5.41,4,43.2,80.98,3.22
+Social Media,93,36.76,185.31,0.0,5.04,4,52.5,91.93,2.52
+App Store,132,64.68,234.4,16.36,3.62,7,64.7,87.3,1.35
+Paid Search,119,51.6,147.88,0.0,2.87,4,44.3,85.16,1.66
+Partner,115,69.7,143.57,0.0,2.06,2,30.2,102.01,1.46

@@ -1,0 +1,5 @@
+"activity_quartile","min_early_events","max_early_events","users","purchase_pct","feature_users","non_feature_users","purchase_feature_pct","purchase_non_feature_pct"
+1,1,13,243,44.9,110,133,46.4,43.6
+2,13,20,242,61.2,166,76,58.4,67.1
+3,20,27,242,81.4,204,38,79.9,89.5
+4,27,46,242,83.9,222,20,83.3,90.0

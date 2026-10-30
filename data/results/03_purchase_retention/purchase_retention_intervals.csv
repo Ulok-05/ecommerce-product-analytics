@@ -1,0 +1,5 @@
+"interval_name","eligible_users","returned_users","retention_pct","full_horizon_users","full_horizon_retention_pct"
+Day 1-30,966,681,70.5,911,70.58
+Day 31-60,959,654,68.2,911,68.94
+Day 61-90,941,422,44.85,911,44.79
+Day 91-120,911,0,0.0,911,0.0

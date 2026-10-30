@@ -1,0 +1,10 @@
+"acquisition_channel","users","eligible_users","pct_eligible","cac_per_user","ltv_12_months","ltv_cac_12_months","enterprise_users","ltv_cac_12_months_without_enterprise"
+Direct,119,67,56.3,2.51,88.13,35.18,1,29.54
+Content Marketing,109,64,58.7,16.2,161.75,9.98,3,3.79
+Email Campaign,104,63,60.6,8.96,45.91,5.12,0,5.12
+Organic Search,99,59,59.6,12.57,61.0,4.85,0,4.85
+Referral,110,63,57.3,25.19,60.93,2.42,1,1.68
+Paid Search,119,66,55.5,51.53,119.25,2.31,1,1.17
+App Store,132,67,50.8,62.78,140.38,2.24,1,0.85
+Social Media,93,58,62.4,38.18,83.28,2.18,1,1.82
+Partner,115,62,53.9,67.06,60.99,0.91,0,0.91

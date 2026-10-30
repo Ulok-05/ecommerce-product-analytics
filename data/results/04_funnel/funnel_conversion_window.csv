@@ -1,0 +1,16 @@
+"conversion_window","window_order","step_order","step","users"
+7 days,7,1,Website Visit,972
+7 days,7,2,View Product,265
+7 days,7,3,Add to Cart,54
+7 days,7,4,Checkout Start,2
+7 days,7,5,Purchase,0
+30 days,30,1,Website Visit,971
+30 days,30,2,View Product,691
+30 days,30,3,Add to Cart,398
+30 days,30,4,Checkout Start,188
+30 days,30,5,Purchase,83
+No limit,99999,1,Website Visit,972
+No limit,99999,2,View Product,866
+No limit,99999,3,Add to Cart,722
+No limit,99999,4,Checkout Start,577
+No limit,99999,5,Purchase,439

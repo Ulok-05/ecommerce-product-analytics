@@ -1,0 +1,9 @@
+"event_name","users_with_event","users_without_event","conversion_with_event_pct","conversion_without_event_pct"
+app_open,711,261,54.9,18.8
+content_share,715,257,56.6,13.2
+feature_click,698,274,56.0,17.5
+notification_click,701,271,56.5,15.9
+profile_view,726,246,55.6,14.2
+search,695,277,57.3,14.8
+settings_change,709,263,56.7,14.1
+video_play,708,264,54.4,20.5

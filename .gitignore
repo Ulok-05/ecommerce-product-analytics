@@ -1,0 +1,21 @@
+# macOS and Jupyter
+.DS_Store
+.ipynb_checkpoints/
+
+# Python environment
+.venv/
+__pycache__/
+
+# Local database (re-created from mock_data/files/ with the setup scripts)
+ecommerce.duckdb
+ecommerce.duckdb.wal
+
+# DBeaver project settings
+mock_data/.dbeaver/
+mock_data/.project
+
+# Russian copies of the notebooks (kept locally)
+notebooks/*_ru.ipynb
+
+# Russian copy of the README (kept locally)
+README_ru.md

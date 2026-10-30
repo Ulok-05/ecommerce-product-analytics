@@ -1,0 +1,9 @@
+"event_name","users_with_event","users_without_event","purchase_with_event_pct","purchase_without_event_pct"
+app_open,714,255,72.7,54.1
+content_share,710,259,71.3,58.3
+feature_click,702,267,70.7,60.3
+notification_click,708,261,71.6,57.5
+profile_view,734,235,73.2,51.1
+search,678,291,73.7,54.0
+settings_change,713,256,72.7,54.3
+video_play,716,253,70.3,60.9
